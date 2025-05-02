@@ -34,7 +34,8 @@ This project is built with:
 
 - Vite
 - TypeScript
-- React
+- React JS
+- Angular
 - shadcn-ui
 - Tailwind CSS
 
